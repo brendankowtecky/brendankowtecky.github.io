@@ -829,164 +829,366 @@ var descriptions = {
 		 }  
 	],
 	
-	"landscapes": [
+	"landscape": [
 		 
 		 {
 		   "id": "1",
-		   "imageTitle": "Misty Mountains",
-		   "description": "sample",
-		   "location": "sample",
-		   "dateTaken": "sample"
+		   "imageTitle": "The Misty Mountains",
+		   "description": "This photograph was taken immediately after a large storm had taken place, which had poured over one hundred millimetres of rain in a single day. The mountains and forests along the west coast of the South Island are used to being abused by the weather. Large amounts of precipitation that build over the Tasmin sea dump down once they hit the mountainous coastline. This creates a beautiful temperate rainforest and powerful waterfalls that can spring up almost anywhere.",
+		   "location": "Fox Glacier, New Zealand",
+		   "dateTaken": "January 2014",
+		   "tags": "oceania"
 		 },
 		 {
-		   "id": "sample",
-		   "imageTitle": "sample",
-		   "description": "sample",
-		   "location": "sample",
-		   "dateTaken": "sample"
+		   "id": "2",
+		   "imageTitle": "Lake Hokitika Sunrise",
+		   "description": "Driving up along the west coast to kayak some rivers further north, we decided to spend a night camping near the town of Hokitika. The following morning's sunrise opened the sky into a brilliant purple hue, allowing for the lake and mountains to be illuminated against the dark shoreline. Throughout my time living in New Zealand, I came to know the west coast of the South Island rather well. We routinely explored the creeks and rivers and slowly became familiar with this beautiful part of New Zealand.",
+		   "location": "Hokitika, New Zealand",
+		   "dateTaken": "January 2014",
+		   "tags": "oceania"
 		 },
 		 {
-		   "id": "sample",
-		   "imageTitle": "sample",
-		   "description": "sample",
-		   "location": "sample",
-		   "dateTaken": "sample"
+		   "id": "3",
+		   "imageTitle": "Barren Lands",
+		   "description": "I came upon this scene while scouting along the shore of eastern Baffin Island keeping an eye out for polar bears. The sheer size and mass of vertical rock along this stretch of the island is impressive, to say the least. Everywhere you turn, cliffs will be rising straight out from the ocean, soaring up for hundreds of meters. Coming across some gentler terrain (as pictured here) is actually a rare find.",
+		   "location": "Cape Dyer, Baffin Island, Nunavut, Canada",
+		   "dateTaken": "August 2018",
+		   "tags": "arctic"
 		 },
 		 {
-		   "id": "sample",
-		   "imageTitle": "sample",
-		   "description": "sample",
-		   "location": "sample",
-		   "dateTaken": "sample"
+		   "id": "4",
+		   "imageTitle": "Autumn Bliss",
+		   "description": "Travelling around Cape Breton Highlands National Park during the month of October is quite remarkable. After Thanksgiving, the park is significantly quieter. If you're lucky, you can have multiple trails and lookouts all to yourself. I spent a few days there, slowly making my way from the western edge of the park to the eastern side. This photo was taken right at the park's eastern border near the town of Ingonish.",
+		   "location": "Cape Breton, Nova Scotia, Canada",
+		   "dateTaken": "October 2018",
+		   "tags": "canada"
 		 },
 		 {
-		   "id": "sample",
-		   "imageTitle": "sample",
-		   "description": "sample",
-		   "location": "sample",
-		   "dateTaken": "sample"
+		   "id": "5",
+		   "imageTitle": "Baffin Light",
+		   "description": "After spending an afternoon visiting the town of Pond Inlet, we started making our way east along its outer coastline. Shortly after leaving Pond Inlet, the shoreline starts to become steeper and cliffs begin to rise straight out from the waters edge. Combining these views with the soft evening light made for quite a memorable experience.",
+		   "location": "Pond Inlet, Nunavut, Canada",
+		   "dateTaken": "August 2018",
+		   "tags": "arctic"
 		 },
 		 {
-		   "id": "sample",
-		   "imageTitle": "sample",
-		   "description": "sample",
-		   "location": "sample",
-		   "dateTaken": "sample"
+		   "id": "6",
+		   "imageTitle": "Castle Hill",
+		   "description": "This picture was taken on an autumn day while bouldering in Castle Hill along Arthur’s Pass. The bouldering was difficult, and aside from a few easier routes, we ended up being unsuccessful on most. However, when you have a day with scenery like this all around you, I still consider it a win.",
+		   "location": "Castle Hill, New Zealand",
+		   "dateTaken": "May 2014",
+		   "tags": "oceania"
 		 },
 		 {
-		   "id": "sample",
-		   "imageTitle": "sample",
-		   "description": "sample",
-		   "location": "sample",
-		   "dateTaken": "sample"
+		   "id": "8",
+		   "imageTitle": "Hills of Green",
+		   "description": "Driving along some of the less travelled roads of New Zealand was one of my favourite things to do while living down there. This specific road that took us from Mt. Taranaki towards Tongariro National Park was filled with many hidden gems. Small hamlets, green hills, and no shortage of sheep accompanied us along much of the route.",
+		   "location": "Kohuratahi, New Zealand",
+		   "dateTaken": "May 2014",
+		   "tags": "oceania"
 		 },
 		 {
-		   "id": "sample",
-		   "imageTitle": "sample",
-		   "description": "sample",
-		   "location": "sample",
-		   "dateTaken": "sample"
+		   "id": "9",
+		   "imageTitle": "Looming",
+		   "description": "While hiking part of the infamous “W” trek in Patagonia we came across many stunning mountainous scenes. However, this particular shot is the one that I was most pleased with. I find it is often the case that the photographs I am most pleased with are from unassuming scenes. Rarely are they from classic viewpoints or of iconic landmarks. I find the thought of not knowing where your next successful image is going to come from quite exciting. It really leaves the door open to experimentation and makes the process much more organic.",
+		   "location": "Torres Del Paine National Park, Chile",
+		   "dateTaken": "December 2018",
+		   "tags": "southamerica"
 		 },
 		 {
-		   "id": "sample",
-		   "imageTitle": "sample",
-		   "description": "sample",
-		   "location": "sample",
-		   "dateTaken": "sample"
+		   "id": "10",
+		   "imageTitle": "Coastal",
+		   "description": "After being stuck on the north side of the Brooks Peninsula for four days as a storm rolled through, we decided to test our luck and try to make to make it around the 40km headland. Hindsight shows that we should have given the waters another day to subside. Massive waves, strong winds, and dozens of reefs made for eight hours straight of nerve-wracking paddling. When we finally reached a suitable landing spot, we collapsed with fatigue. This image was captured during the following morning's sunrise. I often think of it as a reward for surviving the previous day's ordeals.",
+		   "location": "Brooks Peninsula, British Columbia, Canada",
+		   "dateTaken": "May 2018",
+		   "tags": "canada"
 		 },
 		 {
-		   "id": "sample",
-		   "imageTitle": "sample",
-		   "description": "sample",
-		   "location": "sample",
-		   "dateTaken": "sample"
+		   "id": "11",
+		   "imageTitle": "River Run",
+		   "description": "June in northern Ontario can have hot summer temperatures one day, followed by days hovering close to zero degrees. This particular June had seen many of those cold temperature days and had been filled with many rainy and foggy days. The rivers were all running high and the trails through the forest were perpetually damp. If you could manage to keep your camera equipment dry, it made for some fantastic photo opportunities. Eventually the cold spells broke and summer temperatures returned. But of course as the warmer temperatures returned, so did the black flies.",
+		   "location": "Sand River, Ontario, Canada",
+		   "dateTaken": "June 2015",
+		   "tags": "canada"
 		 },
 		 {
-		   "id": "sample",
-		   "imageTitle": "sample",
-		   "description": "sample",
-		   "location": "sample",
-		   "dateTaken": "sample"
+		   "id": "12",
+		   "imageTitle": "Mountains from the Sea",
+		   "description": "The eastern side of Baffin Island is one of the most rugged and steep coastlines that I have ever experienced. Cliffs rise straight out of the water for thousands of feet, and can stretch for many tens of kilometres before you could find even a potential landing site. Combine this steep topography with brutally cold weather, polar bears, and almost no human presence and you have a pretty wild location. The island in the photograph greeted us upon exiting one of the large fjords. It too is very distinctive with sheer cliffs and inhospitable appearance.",
+		   "location": "Baffin Island, Nunavut",
+		   "dateTaken": "August 2018",
+		   "tags": "arctic"
 		 },
 		 {
-		   "id": "sample",
-		   "imageTitle": "sample",
-		   "description": "sample",
-		   "location": "sample",
-		   "dateTaken": "sample"
+		   "id": "13",
+		   "imageTitle": "Fox Névé",
+		   "description": "After being dropped off by helicopter on top of the Fox Névé, my climbing partner and I worked our way across the glacial terrain to a nearby hut that we would plan to stage our adventures from for the next three days. The first night was magical. Everything around was cast in golden tones as we watched the sun set far off over the Tasman Sea. A few clouds hung low in the valleys, but at the elevation we were currently at it was perfectly clear. This photograph was taken just a handful of metres away from the hut's front door.",
+		   "location": "Fox Glacier Névé, New Zealand",
+		   "dateTaken": "March 2014",
+		   "tags": "oceania"
 		 },
 		 {
-		   "id": "sample",
-		   "imageTitle": "sample",
-		   "description": "sample",
-		   "location": "sample",
-		   "dateTaken": "sample"
+		   "id": "14",
+		   "imageTitle": "Patagonian Mountains",
+		   "description": "The mountains throughout Torres Del Paine National Park are both sizeable and perceptible in their appearance. As we spent the better part of a week in this park exploring the lakes, rivers, and trails, these magnificent mountains were constantly staring down. Their block-like appearance make them some of the most recognizable in the world, and they have become a staple image when showcasing the beautiful Patagonian scenery.",
+		   "location": "Torres Del Paine National Park, Chile",
+		   "dateTaken": "December 2018",
+		   "tags": "southamerica"
 		 },
 		 {
-		   "id": "sample",
-		   "imageTitle": "sample",
-		   "description": "sample",
-		   "location": "sample",
-		   "dateTaken": "sample"
+		   "id": "15",
+		   "imageTitle": "Rising Hills",
+		   "description": "This image was captured a long bus ride from Puerto Natales, Chile, to El Chalten, Argentina. The majority of the journey that day had been through flat, desert-like landscapes. But as we began to approach our destination, the topography began to change and the sun started to hang lower in the sky. It cast long, harsh shadows on the hills that paralleled the road. We were treated to this light show for the last 30 minutes as we gradually rolled towards the town.",
+		   "location": "El Chalten, Argentina",
+		   "dateTaken": "December 2018",
+		   "tags": "southamerica"
 		 },
 		 {
-		   "id": "sample",
-		   "imageTitle": "sample",
-		   "description": "sample",
-		   "location": "sample",
-		   "dateTaken": "sample"
+		   "id": "16",
+		   "imageTitle": "Reflect",
+		   "description": "On a quick visit to Aoraki National Park we drove along the shoreline of Lake Pukaki. This lake is famous for its bright blue coloured water and scenic surroundings. It was already late fall and fresh snow covered the Canterbury hills. Normally, shooting on a blue bird day during midday light makes for poor photographs. However, this photograph was an exception, and I think it adds to the simplistic beauty that surrounds the infamous lake.",
+		   "location": "Lake Pukaki, New Zealand",
+		   "dateTaken": "May 2014",
+		   "tags": "oceania"
 		 },
 		 {
-		   "id": "sample",
-		   "imageTitle": "sample",
-		   "description": "sample",
-		   "location": "sample",
-		   "dateTaken": "sample"
+		   "id": "17",
+		   "imageTitle": "Fiordland",
+		   "description": "It may be touristy, but travelling through Fiordland National Park is a must when visiting the South Island of New Zealand. Its steep walls and rough seas create a demanding presence. What really makes it so unique though, is the dozens of waterfalls that pour hundreds of feet down from the tops of the hills straight into the ocean. During a rainy day (which is most days down there) the number of waterfalls easily double and add even more majesty to the awe-inspiring fiords.",
+		   "location": "Milford Sound, New Zealand",
+		   "dateTaken": "May 2014",
+		   "tags": "oceania"
 		 },
 		 {
-		   "id": "sample",
-		   "imageTitle": "sample",
-		   "description": "sample",
-		   "location": "sample",
-		   "dateTaken": "sample"
+		   "id": "18",
+		   "imageTitle": "Collision",
+		   "description": "Pancake Rocks is an impressive geological attraction that lies near the border of Paparoa National Park. The layered limestone creates steep cliffs, sea stacks, arches, and a fairly reliable blowhole. If you can time your visit with high tide and a choppy day, then you can be sure to see massive spray pouring through the rocks as the waves smash into the rocks below. Even if you visit during a lower tide, rocks themselves should keep you well entertained for some time.",
+		   "location": "Pancake Rocks, New Zealand",
+		   "dateTaken": "February 2014",
+		   "tags": "oceania"
 		 },
 		 {
-		   "id": "sample",
-		   "imageTitle": "sample",
-		   "description": "sample",
-		   "location": "sample",
-		   "dateTaken": "sample"
+		   "id": "19",
+		   "imageTitle": "Storm Cell",
+		   "description": "Even if you have an idea of what you want to photograph, the weather and light don’t always cooperate. On this occasion, I woke up at 4am to begin hiking towards Mt. Fitzroy trying to get an image of the beautiful mountain range lit up during sunrise. After an hour and a half walk through the dark, I found my vantage point. It had been a clear night and I was optimistic for an impressive sunrise. However, just minutes before the sun was due to rise, dark clouds formed and covered the entirety of the sky. There would be no sunrise on the Fitzroy range that morning. After a moment or two of pouting, I noticed the clouds continuing to take shape and darken over the hills to the south. It may not have been the original image I was after, but it did create a compelling scene nonetheless.",
+		   "location": "El Chalten, Argentina",
+		   "dateTaken": "December 2018",
+		   "tags": "southamerica"
 		 },
 		 {
-		   "id": "sample",
-		   "imageTitle": "sample",
-		   "description": "sample",
-		   "location": "sample",
-		   "dateTaken": "sample"
+		   "id": "21",
+		   "imageTitle": "Autumn Valley",
+		   "description": "After completing a sea kayak course in Nova Scotia, I decided to explore the Cape Breton Highlands before returning home. Loading my gear in the car, I drove through heavy rain towards the beautiful island. I spent the first soggy night camped by the beach along the southwest coast. Upon awaking the next morning, I found a nice mix of sun and clouds that filled the sky. I continued travelling north and was pleasantly surprised to find an almost empty Cape Breton National Park and fall colours that still permeated the forests. The next few days were filled with great hiking, amazing viewpoints, and almost empty oceanside roads.",
+		   "location": "Cape Breton, Nova Scotia",
+		   "dateTaken": "October 2018",
+		   "tags": "canada"
 		 },
 		 {
-		   "id": "sample",
-		   "imageTitle": "sample",
-		   "description": "sample",
-		   "location": "sample",
-		   "dateTaken": "sample"
+		   "id": "22",
+		   "imageTitle": "Fall Time Flows",
+		   "description": "While driving around Cape Breton National Park in late October, I found myself constantly stopping at each viewpoint, lookout, and waterfall. If you could manage to sneak into the forest just a few metres off the highway, you’d find yourself completely surrounded by an array of autumn colours and creeks that cascading steeply into the valley’s below. I did not get to spend as long as I would have liked to on the island, and will most certainly be returning in the future to further explore the hills, valleys, and coasts of this fantastic island.",
+		   "location": "Cape Breton, Nova Scotia",
+		   "dateTaken": "October 2018",
+		   "tags": "canada"
 		 },
 		 {
-		   "id": "sample",
-		   "imageTitle": "sample",
-		   "description": "sample",
-		   "location": "sample",
-		   "dateTaken": "sample"
+		   "id": "23",
+		   "imageTitle": "A Path Less Travelled",
+		   "description": "Sometimes you plan out a photograph carefully, making sure that you have the right light, that you are in the correct location, and that you have the proper equipment. Other times the scene just appears. This is certainly an example of the latter. On a surf session to an unnamed beach on the west coast of the South Island, these steps laid undisturbed. Knowing less about photography than I do now, I simply raised my camera, took one quick “click”, and then continued on downs toward the beach.  It was only after that I realized how much I liked this image as it allows us to imagine and ask questions about why the steps are there, and what lies beyond them.",
+		   "location": "Karangarua, New Zealand ",
+		   "dateTaken": "September 2013",
+		   "tags": "oceania"
 		 },
 		 {
-		   "id": "sample",
-		   "imageTitle": "sample",
-		   "description": "sample",
-		   "location": "sample",
-		   "dateTaken": "sample"
+		   "id": "24",
+		   "imageTitle": "Coastal Lagoon",
+		   "description": "This small hamlet hidden away on the west coast of New Zealand’s South Island is as picturesque as it is friendly. The village of Ōkārito is home to about 30 permanent residents, but a handful of tourists may work or visit there during the summer months. It has a large lagoon of about 12 square kilometres, making it the largest unmodified wetland in New Zealand. On one of my few visits to the community, the lagoon was quite flooded, perhaps by a larger than normal tide or from the Ōkārito river that was flowing in high volumes. The visitors wharf was completely cut off from land, which only made it all the more inviting.",
+		   "location": "Ōkārito Lagoon, New Zealand",
+		   "dateTaken": "December 2013",
+		   "tags": "oceania"
+		 },
+		 {
+		   "id": "27",
+		   "imageTitle": "Polar Grandeur",
+		   "description": "On my first season guiding in Antarctica, I was lucky enough to transit the Lemaire Channel a handful of times. The infamous channel separates Booth Island from the Kiev Peninsula by a narrow channel that extends for 11 kilometres. At its narrowest point it is only 1600 metres wide. The areas to the immediate north and south of the channel are known for there impressive peaks and sheer walls that come straight down to the icy waters. If you can time a transit of this area either in early morning or late evening you can be treated to an impressive display.",
+		   "location": "Lemaire Channel, Antarctica",
+		   "dateTaken": "March 2018",
+		   "tags": "antarctica"
+		 },
+		 {
+		   "id": "28",
+		   "imageTitle": "West Coast Sunset",
+		   "description": "Pacific Rim National Park on Vancouver Island's west coast protects over 500 square kilometres of prime rainforest, sandy beaches, and rocky coastline. It has three distinct sections. The northernmost section is the park's busiest. It includes a large swath of beaches between the towns of Tofino and Ucluelet. Most beaches are roadside, and that area is best known for its fantastic surfing opportunities. The middle portion is known as the Broken Island Group. Located just south of Ucluelet, the group consists of a small archipelago of close to one hundred islands that make for arguably some of the world's best sea kayaking. The southernmost leg is also the parks largest. Stretching from Bamfield to the town of Port Renfrew, this section of park is known for its rugged coastline, old growth forests, and the infamous West Coast Trail. ",
+		   "location": "Green Point, Tofino, British Columbia",
+		   "dateTaken": "May 2017",
+		   "tags": "canada"
+		 },
+		 {
+		   "id": "30",
+		   "imageTitle": "Thinning Remnants",
+		   "description": "The east coast of Baffin Island is littered with deep fjords that indent the island and sometimes stretch over one hundred kilometres. Gibbs Fjord is rather similar to the others along the east coast of Baffin Island. It has jaw-dropping cliffs that rise straight out of the water for thousands of feet and is sprinkled with a handful of glaciers. Some of these glaciers still reach the ocean, but many have since retreated and now hang precariously along the walls. As we kayaked towards the unnamed glacier in the photograph, it was clear that this would be the last time that we would see the ice reach the ocean. The arctic is ground zero for climate change, and it is where we are witnessing the fastest and largest amounts of warming. The wildlife and people that call this place home are struggling to adapt as it continually changes.",
+		   "location": "Baffin Island, Nunavut",
+		   "dateTaken": "September 2017",
+		   "tags": "arctic"
+		 },
+		 {
+		   "id": "31",
+		   "imageTitle": "Rain Coast Cascades",
+		   "description": "Winter on Vancouver Island can be wet. The southwest coast of British Columbia is generally not associated with the white, snowy winters that blanket the rest of Canada throughout the winter months. Instead they get rain, and lots of it. One of the few positives to the highly precipitous winters can be the amount of seasonal waterfalls that form. What may only be a slight trickle through the summer becomes an impressive cascade or falls come winter. The town of Sooke is located on the southern tip of Vancouver Island and has a number of scenic creeks that pour down from hills behind the town. Mary Vine Creek is just one that houses impressive cascades as they make their way down towards the sea.",
+		   "location": "Potholes Regional Park, Sooke, British Columbia",
+		   "dateTaken": "January 2018",
+		   "tags": "canada"
+		 },
+		 {
+		   "id": "34",
+		   "imageTitle": "Mossy Wonderlands",
+		   "description": "After purchasing a couple of used sea kayaks for my father and sister near Campbell River, I decided to play around on Strathcona park for a few days. It was early April and the alpine was still very much cast in its winter setting. However, this allowed me to focus on paddling the parks impressive lakes and some of its shorter trails. Karst Creek is one of those shorter trails and includes an underground river, large cedars, and a scenic waterfall. ",
+		   "location": "Karst Creek, Strathcona Provincial Park, British Columbia",
+		   "dateTaken": "April 2018",
+		   "tags": "canada"
+		 },
+		 {
+		   "id": "35",
+		   "imageTitle": "Conifers Aglow",
+		   "description": "On a multi day camping trip in Strathcona Provincial Park I took off from the campsite for a quick evening paddle. Sometimes, you don’t need to go very far to be rewarded with fantastic light. Just around the bend, the sun had already began to cast its long rays of light through the evergreens. The rays of light lit up the trees which created a stunning scene as the sun slowly disappeared behind the mountains. After, the sun disappeared, I turned back and paddled the short distance back to the comfort of my camp.",
+		   "location": "Buttle Lake, Strathcona Provincial Park, British Columbia",
+		   "dateTaken": "April 2018",
+		   "tags": "canada"
+		 },
+		 {
+		   "id": "36",
+		   "imageTitle": "The Break",
+		   "description": "The southwest coast of Vancouver Island is an exposed rocky stretch of shore that is often battered by strong winds and pounding waves. A solo sea kayak trip in this region during the first week of February guaranteed big water conditions. The most challenging aspect of this trip was the surf launches and landings. The crashing waves force you to play a game involving both patience and nerve. You need to be poised and ready, waiting, watching, and counting the waves. Once the moment is right you need to push off into the water as quickly as you can, ensuring to keep your boat pointed directly into the surf. It is often over in a matter of seconds but often feels like minutes as you work your way past the break to the open swell.",
+		   "location": "Tsusiat Falls, Pacific Rim National Park, British Columbia",
+		   "dateTaken": "February 2018",
+		   "tags": "canada"
+		 },
+		 {
+		   "id": "37",
+		   "imageTitle": "Battered Coast",
+		   "description": "On a nine day solo kayak trip on the southwest coast of Vancouver Island, I spent a night beside the infamous Tsusiat Falls. Although the falls were impressive, I found the crashing surf far more mesmerizing. Every few seconds, thousands of kilograms of water would smash into the rocky coastline, sending waves and spray hurdling metres into the air. The idea of having to launch back into the surf in the morning was constantly on my mind. However, as the sun began to lower in the sky, the surf began to subside ever so slightly. The fear of tomorrow’s events disappeared and I once again lost track of time staring into the waves.",
+		   "location": "Tsusiat Falls, Pacific Rim National Park, British Columbia",
+		   "dateTaken": "February 2018",
+		   "tags": "canada"
+		 },
+		 {
+		   "id": "39",
+		   "imageTitle": "Thundering Down",
+		   "description": "On the Victoria Flats of Fox Glacier, a large waterfall known as Victoria Falls comes cascading down hundreds of metres from the mountains above. The force of the falls creates a large amphitheatre of rock and ice around it. Throughout my time working on Fox Glacier, I often found myself drawn towards these falls, trying to capture the the power of the thunderous cascade. The steep cliffs of ice and rock around the falls only added to its grandeur. I never was able to photograph this waterfall the way I imagined, but was still pleased with the end result of some more cropped in portions.",
+		   "location": "Fox Glacier, New Zealand",
+		   "dateTaken": "May 2014",
+		   "tags": "oceania"
+		 },
+		 {
+		   "id": "40",
+		   "imageTitle": "First Light",
+		   "description": "Scrambling up into the hills behind our hostel late one evening, we found a fantastic vantage point to view the entire Fitzroy traverse. I knew I had to return the next morning (our last in El Chalten) for sunrise. I woke up around 4:30am and began trudging my way up the steep terrain. Towards the top of the hike, I realized that the sun was just moments away from rising and that I would need to sprint the last couple hundred metres if I was to make it to the top in time. I managed to get to the viewpoint just as the sun's light began to hit the mountains. I would take a few frames and then lower my camera so I could pant and try and catch my breath. This process repeated for nearly ten minutes. Shortly after the sun rose, clouds moved in and shrouded the view of the mountains. I was very pleased that I was able to make it to the top for sunrise and capture the few minutes of great light for the day.",
+		   "location": "El Chalten, Argentina",
+		   "dateTaken": "December 2018",
+		   "tags": "southamerica"
+		 },
+		 {
+		   "id": "41",
+		   "imageTitle": "Freeze Frame",
+		   "description": "After a quick overnight hiking trip to Wedgemount Lake, we drove north towards Pemberton to visit Nairn Falls. This small provincial park showcases an impressive stretch of river that cascades and tumbles through a beautiful canyon. The hike is mostly flat and is family friendly. Depending on the time of year you visit, the water can either be a brown/grey colour (from all the sediment), or a turquoise blue colour when the river is at lower flows. Both the upper and lower falls are close to 30 meters (100 ft) and are worth the visit if you find yourself driving by.",
+		   "location": "Nairn Falls Provincial Park, British Columbia",
+		   "dateTaken": "October 2017",
+		   "tags": "canada"
+		 },
+		 {
+		   "id": "43",
+		   "imageTitle": "Passages",
+		   "description": "August in the Broughton Islands can sometimes be referred to as “Fogust”. Quite often, the islands remain shrouded in fog for most of the day, only clearing for a few hours in the afternoon. When the fog begins to clear, it creates a convoluted maze of passages as islands appear and disappear every few minutes. If you can put up with consistently damp gear and limited sunlight, it can be a truly magical time to visit this portion of the British Columbian coast.",
+		   "location": "Broughton Island Archipelago, British Columbia",
+		   "dateTaken": "August 2019",
+		   "tags": "canada"
+		 },
+		 {
+		   "id": "44",
+		   "imageTitle": "Coastal Bliss",
+		   "description": "The Burdwood Islands are a a cluster of nearly a dozen islands that lie northeast of the Broughton Islands Archipelago. They are in the traditional territory of the Mamalilikulla First Nations and have a number of freshly painted pictographs. The best campsite is tucked in the forest behind a midden. Middens are where First Nations people harvested and dumped shells, bones, and other natural materials for hundreds (sometimes thousands) of years. Over time, the material has ground up and worn down, often times creating a pleasing white shell beach.",
+		   "location": "Broughton Island Archipelago, British Columbia",
+		   "dateTaken": "August 2019",
+		   "tags": "canada"
+		 },
+		 {
+		   "id": "45",
+		   "imageTitle": "Subtlety",
+		   "description": "During a solo spring kayak trip through the Discovery Islands, I spent a night camping on the western side of Sonora Island. For the past few days it had been overcast with showers most of the time. That evening however, the clouds slowly began to dissipate, allowing for some fantastic evening light to work its magic on the hills across the channel. The hills of Quadra Island were illuminated and the mountains of Vancouver Island poked out overhead.",
+		   "location": "Sonora Island, British Columbia",
+		   "dateTaken": "April 2019",
+		   "tags": "canada"
+		 },
+		 {
+		   "id": "46",
+		   "imageTitle": "Hidden Falls",
+		   "description": "On the southern shores of Vancouver Island lies Sombrio Beach. This scenic beach is popular with surfers, families, and campers hiking the Juan de Fuca trail. If you work your way to the far end of the beach, a short trail takes you into a narrow mossy canyon. A small creek flows out of the canyon and in the back is a stunning waterfall. The waterfall can sometimes be mistaken for a ray of light shining down through the back of the canyon. It is one of the most unique and beautiful waterfalls that I have ever visited.",
+		   "location": "Sombrio Beach, British Columbia",
+		   "dateTaken": "May 2019",
+		   "tags": "canada"
+		 },
+		 {
+		   "id": "48",
+		   "imageTitle": "The White Cliffs",
+		   "description": "The White Cliff Islets are part of the Broughton Island Archipelago Provincial Park. They are a very small group of islands that lie at the far southern end of the Queen Charlotte Strait and are one of the best and most coveted campsites in the area. The scenery and potential for cetaceans makes it easy to see why it can be such a popular spot. The islands, however, are quite exposed, and the few trees that grow on them are all sculpted by the wind. My first visit to the White Cliff Islets involved a visit from a breaching humpback whale and an incredible sunset with dark stormy skies behind. It is a destination all unto itself.",
+		   "location": "Broughton Island Archipelago, British Columbia",
+		   "dateTaken": "July 2019",
+		   "tags": "canada"
+		 },
+		 {
+		   "id": "49",
+		   "imageTitle": "Mt. Arrowsmith",
+		   "description": "Mt. Arrowsmith is an impressive and stunning mountain that lies near the town of Port Alberni on Vancouver Island. This mountain offers great hiking and climbing opportunities, and in the winter months can take you into an alpine environment. Once you reach the summit, you are able to see the Strait of Georgia to the east and Barkley Sound to the west. The easiest way to get the summit is via the Judges Route. This short but steep hike takes you all the way to the summit without needing to do any technical climbing.",
+		   "location": "Mt. Arrowsmith, Vancouver Island, British Columbia",
+		   "dateTaken": "July 2019",
+		   "tags": "canada"
+		 },
+		 {
+		   "id": "50",
+		   "imageTitle": "Summer Snow",
+		   "description": "Visiting South Georgia any time of the year can be a challenge. Even throughout the summer months, severe gale force winds, white out conditions, and freezing temperatures can occur. It can transition from a warm summer day to a blustery, cold and wet day in a matter of minutes. On this specific trip to Fortuna Bay, a cool light rain had set in for most of the morning. As the clouds slowly lifted, a light dusting of snow was revealed in the mountains surrounding the bay.",
+		   "location": "Fortuna Bay, South Georgia",
+		   "dateTaken": "January 2020",
+		   "tags": "antarctica"
+		 },
+		 {
+		   "id": "51",
+		   "imageTitle": "Blocked",
+		   "description": "Spurt Island on the Antarctic Peninsula is an incredible place to explore. Large cliffs, impressive rock arches and huge tunnels are some of the geological features that are part of the island. Near the southwest corner of the islands, a handful of channels cut right through the islands. Most are only a handful of metres wide, but can be surrounded by cliffs nearly one hundred metres tall. On this particular occasion, almost every channel seemed to be chocked by an iceberg. A couple of the channels seemed to be ice-free for their entire length, only to be thwarted by a single chunk of ice at the very end. It made the exploration even more enticing. But eventually, after being blocked at each and every channel, we were forced to go around the entire tip of the island.",
+		   "location": "Spurt Island, Antarctica",
+		   "dateTaken": "January 2020",
+		   "tags": "antarctica"
+		 },
+		 {
+		   "id": "52",
+		   "imageTitle": "Glacial Retreat",
+		   "description": "Adelie Penguins, an extinct volcano, steep cascading glaciers. All in all, Brown Bluff on the tip of the Antarctic Peninsula is a rather intriguing place. It is also a very dynamic place that is constantly changing. In the past few decades, rock slides have covered a large portion of the Adelie colony, drastically lowering the population there. The glaciers have also retreated significantly, exposing even more of the distinct brown cliffs for which this place is named. It’s good to have a reminder that the landscapes we see are not permanent. Although they may move at a different pace than humans, they still change regularly and dramatically.",
+		   "location": "Brown Bluff, Antarctica",
+		   "dateTaken": "February 2020",
+		   "tags": "antarctica"
+		 },
+		 {
+		   "id": "53",
+		   "imageTitle": "The White Continent",
+		   "description": "The last continent, the frozen continent, the white continent. All of these names conjure up images of a mysterious isolated land of mountains and ice. Perhaps the names may sound dramatic, but it does accurately depict the landscape of 99% of Antarctica. The peninsula in particular is incredibly scenic. Massive amounts of ice choke the passages near the shore, and steep rocky peaks fall straight down for thousands of feet into the southern ocean. The waters are filled with life through the summer months. Whales, seals, and penguins all call this place home. The sun hangs in the sky all day and night and only disappears for a few hours early and later in the season. It is magical place that I have been privileged to visit time and time again.",
+		   "location": "Gonzalez Videla Station, Antarctica",
+		   "dateTaken": "February 2020",
+		   "tags": "antarctica"
+		 },
+		 {
+		   "id": "54",
+		   "imageTitle": "Golden Light",
+		   "description": "Towards the end of the summer season, the days begin to rapidly get shorter and shorter. In a matter of just a few weeks, the nights go from five or six hours to eight or nine hours. The plus side to the shorter days is the opportunity for some incredible sunrises and sunsets.  The entire landscape can come alive in the early morning or evening light. Channels that you may have sailed through half a dozen times previously that year look entirely different as long shadows and golden light bounce off the ice. It is truly an incredible time of year to visit the seventh continent.",
+		   "location": "Paradise Bay, Antarctica",
+		   "dateTaken": "February 2020",
+		   "tags": "antarctica"
+		 },
+		 {
+		   "id": "56",
+		   "imageTitle": "Living Giants",
+		   "description": "Late fall in the Pacific Northwest can be a challenging time of year. The mountains are not quite yet covered in the blankets of snow, and the weather is generally not as stable and pleasant as it has been for the past four months. One thing that these short rainy days can be great for, however, are for exploring the forests and rivers close to home. In North Vancouver I am lucky enough to be surrounded by a multitude of paths and trails that take me to hidden waterfalls, through patches of old growth forest, and alongside mountainous ridges. These local adventures may be less grandiose compared to some of the more remote expeditions that I have taken part in, but they are just as important when it comes to giving me an appreciation of the incredible landscapes that I am so lucky to explore.",
+		   "location": "North Vancouver, British Columbia, Canada",
+		   "dateTaken": "December 2019",
+		   "tags": "canada"
 		 }
-	
-
-	
-	
 ]}
