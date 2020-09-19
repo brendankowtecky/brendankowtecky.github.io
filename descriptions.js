@@ -1192,7 +1192,7 @@ var descriptions = {
 		   "tags": "canada"
 		 }
 ], 
-"rapid": [
+"paddlingmag": [
 		 
 		 {
 		   "id": "r1",
