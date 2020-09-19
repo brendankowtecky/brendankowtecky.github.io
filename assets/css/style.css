@@ -1750,7 +1750,8 @@ Google map
 }
 
 .work-descr {
-  color: #aaa;
+  font-size: 14px;
+  color: #646262;
 }
 
 .work-item:hover .work-image:after {

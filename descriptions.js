@@ -1191,4 +1191,423 @@ var descriptions = {
 		   "dateTaken": "December 2019",
 		   "tags": "canada"
 		 }
-]}
+], 
+"rapid": [
+		 
+		 {
+		   "id": "r1",
+		   "location": "Broughton Archipelago, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r2",
+		   "location": "Sisimiut, Greenland",
+		   "tags": "arctic"
+		 },
+		 {
+		   "id": "r3",
+		   "location": "White Cliff Islets, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r4",
+		   "location": "Antarctic Peninsula",
+		   "tags": "antarctica"
+		 },
+		 {
+		   "id": "r5",
+		   "location": "Swanson Island, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r6",
+		   "location": "Wilhelmina Bay, Antarctic Peninsula",
+		   "tags": "antarctica"
+		 },
+		 {
+		   "id": "r7",
+		   "location": "Hanson Island, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r8",
+		   "location": "Ypres Point, Lake Superior",
+		   "tags": "ontario"
+		 },
+		 {
+		   "id": "r10",
+		   "location": "Johnstone Strait, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r11",
+		   "location": "White Cliff Islets, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r12",
+		   "location": "Johnstone Strait, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r13",
+		   "location": "Paradise Bay, Antarctica",
+		   "tags": "antarctica"
+		 },
+		 {
+		   "id": "r14",
+		   "location": "Bark Lake, Ontario",
+		   "tags": "ontario"
+		 },
+		 {
+		   "id": "r15",
+		   "location": "Slate Islands, Lake Superior",
+		   "tags": "ontario"
+		 },
+		 {
+		   "id": "r18",
+		   "location": "Fournier Bay, Antarctic Peninsula",
+		   "tags": "antarctica"
+		 },
+		 {
+		   "id": "r16",
+		   "location": "Baffin Island, Nunavut",
+		   "tags": "arctic"
+		 },
+		 {
+		   "id": "r17",
+		   "location": "Swanson Island, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r19",
+		   "location": "Johnstone Strait, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r20",
+		   "location": "Stanley, Falkland Islands",
+		   "tags": "antarctica"
+		 },
+		 {
+		   "id": "r21",
+		   "location": "White Cliff Islets, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r22",
+		   "location": "Plumper Islands, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r23",
+		   "location": "Strathcona Provincial Park, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r24",
+		   "location": "Bunsby Islands, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r25",
+		   "location": "Flower Island, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r26",
+		   "location": "Devon Island, Nunavut",
+		   "tags": "arctic"
+		 },
+		 {
+		   "id": "r27",
+		   "location": "Swanson Island, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r30",
+		   "location": "Toba Inlet, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r28",
+		   "location": "Jedediah Island, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r29",
+		   "location": "Blackney Passage, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r33",
+		   "location": "Hanson Island, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r34",
+		   "location": "Broughton Archipelago, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r35",
+		   "location": "Paradise Bay, Antarctic Peninsula",
+		   "tags": "antarctica"
+		 },
+		 {
+		   "id": "r32",
+		   "location": "Smugglers Cove, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r36",
+		   "location": "Bunny Islets, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r37",
+		   "location": "Desolation Sound, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r38",
+		   "location": "Prairie River, Lake Superior",
+		   "tags": "ontario"
+		 },
+		 {
+		   "id": "r40",
+		   "location": "Plumper Islands, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r41",
+		   "location": "North Shore, Lake Superior",
+		   "tags": "ontario"
+		 },
+		 {
+		   "id": "r45",
+		   "location": "Toba Inlet, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r46",
+		   "location": "Michipicoten Island, Lake Superior",
+		   "tags": "ontario"
+		 },
+		 {
+		   "id": "r47",
+		   "location": "Berry Island, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r49",
+		   "location": "Port Coldwell, Lake Superior",
+		   "tags": "ontario"
+		 },
+		 {
+		   "id": "r50",
+		   "location": "Blackfish Sound, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r51",
+		   "location": "Desolation Sound, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r55",
+		   "location": "Upper Squamish River, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r52",
+		   "location": "Blackney Passage, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r53",
+		   "location": "Swanson Island, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r56",
+		   "location": "Paradise Bay, Antarctic Peninsula",
+		   "tags": "antarctica"
+		 },
+		 {
+		   "id": "r57",
+		   "location": "Hanson Island, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r59",
+		   "location": "Pic Island, Lake Superior",
+		   "tags": "ontario"
+		 },
+		 {
+		   "id": "r60",
+		   "location": "Johnstone Strait, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r62",
+		   "location": "Blackney Passage, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r65",
+		   "location": "Pleneau Island, Antarctic Peninsula",
+		   "tags": "antarctica"
+		 },
+		 {
+		   "id": "r66",
+		   "location": "Blackfish Sound, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r67",
+		   "location": "Agawa River, Ontario",
+		   "tags": "ontario"
+		 },
+		 {
+		   "id": "r68",
+		   "location": "White Cliff Islets, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r69",
+		   "location": "Baffin Island, Nunavut",
+		   "tags": "arctic"
+		 },
+		 {
+		   "id": "r71",
+		   "location": "Blinkhorn Peninsula, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r72",
+		   "location": "Broughton Archipelago, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r73",
+		   "location": "Neys Provincial Park, Ontario",
+		   "tags": "ontario"
+		 },
+		 {
+		   "id": "r74",
+		   "location": "Johnstone Strait, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r75",
+		   "location": "White Cliff Islets, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r76",
+		   "location": "Red Rock Ridge, Antarctic Peninsula",
+		   "tags": "antarctica"
+		 },
+		 {
+		   "id": "r78",
+		   "location": "Fournier Bay, Antarctica",
+		   "tags": "antarctica"
+		 },
+		 {
+		   "id": "r79",
+		   "location": "Hanson Island, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r82",
+		   "location": "Paradise Bay, Antarctica",
+		   "tags": "antarctica"
+		 },
+		 {
+		   "id": "r83",
+		   "location": "Broughton Archipelago, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r84",
+		   "location": "St Ignace Island, Lake Superior",
+		   "tags": "ontario"
+		 },
+		 {
+		   "id": "r85",
+		   "location": "Sisimiut, Greenland",
+		   "tags": "arctic"
+		 },
+		 {
+		   "id": "r86",
+		   "location": "Johnstone Strait, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r87",
+		   "location": "Blackfish Sound, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r77",
+		   "location": "Midsummer Island, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r88",
+		   "location": "Johnstone Strait, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r90",
+		   "location": "Johnstone Strait, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r91",
+		   "location": "Port Stanley, Falkland Islands",
+		   "tags": "antarctica"
+		 },
+		 {
+		   "id": "r92",
+		   "location": "Plumper Islands, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r93",
+		   "location": "Johnstone Strait, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r94",
+		   "location": "Broughton Archipelago, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r96",
+		   "location": "Skonthorp Glacier, Antarctic Peninsula",
+		   "tags": "antarctica"
+		 },
+		 {
+		   "id": "r98",
+		   "location": "Blackfish Sound, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r99",
+		   "location": "Ilulissat, Greenland",
+		   "tags": "arctic"
+		 },
+		 {
+		   "id": "r100",
+		   "location": "Marathon, Lake Superior",
+		   "tags": "ontario"
+		 },
+		 {
+		   "id": "r70",
+		   "location": "Baffin Island, Nunavut",
+		   "tags": "arctic"
+		 }
+]
+}

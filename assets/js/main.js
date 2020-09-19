@@ -106,6 +106,14 @@ console.log('%c This site uses the Titan web template. Proudly Crafted with ZiOn
         	});
         }
         
+        // Rapid - TEMP 
+        if (worksgrid.hasClass('rapid')) {	
+	        $.each(descriptions.rapid, function(i, f) {
+	        	var listItem = "<li class='work-item work-item-gallery-nodesc" + f.tags + "'><a href=\"assets/images/bk/paddlingmag/" + f.id + ".JPG\"><div class=\"work-image\" title=\"" + f.location + "\"><img src=\"assets/images/bk/paddlingmag/thumbnails/" + f.id + ".JPG\" alt=\"" + f.location + "\"/></div><div class=\"work-caption font-alt\"><h3 class=\"work-descr\">" + f.location + "</h3></div></a></li>";
+                $(listItem).appendTo("#works-grid");
+        	});
+        	
+        }
         
         
 
@@ -329,6 +337,35 @@ console.log('%c This site uses the Titan web template. Proudly Crafted with ZiOn
 					"</span></li></ul></div>";
 */
 // 				},
+                tError: 'The image could not be loaded.',
+                preloader: true
+            }
+        });
+        
+        
+        // ANDREA - ADDED SEPT 18 2020 - can remove later 
+        
+        $(".work-item-gallery-nodesc").magnificPopup({
+            delegate: 'a',
+            type: 'image',
+            closeOnContentClick: false,
+            gallery: {
+                enabled: true,
+                navigateByImgClick: true,
+                preload: [0,1]
+            },
+            image: {
+	            markup: '<div class="mfp-figure">'+
+				            '<div class="mfp-close"></div>'+
+				            '<div class="mfp-img"></div>'+ // Floated left
+				            '<div class="mfp-bottom-bar">'+
+				              '<div class="mfp-counter"></div>'+
+				              '<div class="mfp-title"></div>' +
+				            '</div>'+
+				          '</div>', // Popup HTML markup. `.mfp-img` div will be replaced with img tag, `.mfp-close` by close button
+
+			   verticalFit: true, // Fits image in area vertically
+                titleSrc: 'title',
                 tError: 'The image could not be loaded.',
                 preloader: true
             }
