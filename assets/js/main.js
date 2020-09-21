@@ -109,7 +109,7 @@ console.log('%c This site uses the Titan web template. Proudly Crafted with ZiOn
         // Rapid - TEMP 
         if (worksgrid.hasClass('paddlingmag')) {	
 	        $.each(descriptions.paddlingmag, function(i, f) {
-	        	var listItem = "<li class='work-item work-item-gallery-nodesc " + f.tags + "'><a href=\"assets/images/bk/paddlingmag/" + f.id + ".JPG\" title=\"<div class=&quot;work-details&quot;><h5 class=&quot;work-details-title gallery-title font-alt&quot;>" + f.imageTitle + "</h5><p>" + f.description + "</p><ul><li><strong>Date: </strong><span class=&quot;font-serif&quot;>" + f.dateTaken + "</span></li><li><strong>Location: </strong><span class=&quot;font-serif&quot;>" + f.location + "</span></li></ul> </div>\"><div class=\"work-image\" title=\"" + f.imageTitle + "\"><img src=\"assets/images/bk/paddlingmag/thumbnails/" + f.id + ".JPG\" alt=\"" + f.imageTitle + "\"/></div></a></li>";
+	        	var listItem = "<li class='work-item work-item-gallery-nodesc " + f.tags + "'><a href=\"assets/images/bk/paddlingmag/" + f.id + ".JPG\" title=\"<div class=&quot;work-details&quot;><h5 class=&quot;work-details-title gallery-title font-alt&quot;>" + f.location + "</h5><p>" + f.description + "</p><ul><li><strong>Date: </strong><span class=&quot;font-serif&quot;>" + f.dateTaken + "</span></li><li><strong>Location: </strong><span class=&quot;font-serif&quot;>" + f.location + "</span></li></ul> </div>\"><div class=\"work-image\" title=\"" + f.location + "\"><img src=\"assets/images/bk/paddlingmag/thumbnails/" + f.id + ".JPG\" alt=\"" + f.location + "\"/></div><div class=\"work-caption font-alt\"><h3 class=\"work-descr\">" + f.location + "</h3></div></a></li>";
                 $(listItem).appendTo("#works-grid");
         	});
 /*
