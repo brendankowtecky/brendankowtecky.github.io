@@ -246,7 +246,7 @@ button::-moz-focus-inner {
 img.mfp-img {
   float: left;
   width: auto;
-  max-width: 100%;
+  max-width: 70%;
   height: auto;
   display: block;
   line-height: 0;
