@@ -1598,7 +1598,26 @@ var descriptions = {
 		 
 ], 
 "paddlingmag": [
-		 
+		 {
+		   "id": "r101",
+		   "location": "Pitt Lake, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r102",
+		   "location": "Pitt Lake, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r103",
+		   "location": "Indian Arm, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r104",
+		   "location": "Indian Arm, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
 		 {
 		   "id": "r1",
 		   "location": "Broughton Archipelago, British Columbia",
