@@ -208,7 +208,7 @@ if (size.x < 640) {
     var coastline_covered = L.geoJSON(CoastlineAreasCovered, {
         style: {color: "white", weight: 4}
     })
-    coastline_covered.addTo(mymap);
+    //coastline_covered.addTo(mymap);
 
 
     // Material card area lines 
@@ -221,17 +221,32 @@ if (size.x < 640) {
         // },
         style: function(feature) {
             switch (feature.properties.Location) {
-                case 'Marina Island': return {color: "#9c46d1", weight: 6, opacity:0.7};
-                case 'NW Cortes & Subtle Islands': return {color: "#f6f61d", weight: 6, opacity: 0.7};
-                case 'Cortes Island': return {color: "#53bee5", weight: 2};
-                case 'Quadra Island': return {color: "#1efd4e", weight: 2};
-                case 'Read Island': return {color: "#da8115", weight: 2};
+                case 'W Quadra': return {color: "#9c46d1", weight: 3};
+                case 'NW Cortes & Subtle Islands': return {color: "#f6f61d", weight: 3};
+                case 'Maurelle Island': return {color: "#53bee5", weight: 3};
+                case 'SE Quadra': return {color: "#1efd4e", weight: 3};
+                case 'W Quadra - Deepwater Bay': return {color: "#da8115", weight: 3};
+                case 'Read Island': return {color: "#9c46d1", weight: 3};
+                case 'W Quadra - Open Bay': return {color: "#f6f61d", weight: 3};
+                case 'E Quadra': return {color: "#53bee5", weight: 3};
+                case 'SE Read Island': return {color: "#1efd4e", weight: 3};
+                case 'E Quadra - Rebecca Spit': return {color: "#da8115", weight: 3};
+                case 'W Quadra - Gowlland Harbour & Maude Island': return {color: "#9c46d1", weight: 3};
+                case 'NW Quadra - Kanish Bay & Granite Bay': return {color: "#f6f61d", weight: 3};
+                case 'W Cortes - Gorge Harbour': return {color: "#53bee5", weight: 3};
+                case 'E Read': return {color: "#1efd4e", weight: 3};
+                case 'Rendezvous Islands': return {color: "#da8115", weight: 3};
+                case 'E Quadra - Bold Point to Yeatman Bay': return {color: "#9c46d1", weight: 3};
+                case 'Marina Island': return {color: "#f6f61d", weight: 3};
+                case 'W Quadra - Village Bay': return {color: "#53bee5", weight: 3};
+                case 'Marina Island - Stashes': return {color: "#1efd4e", weight: 3};
+                case 'S Quadra - Edgeware Rd': return {color: "#da8115", weight: 3};
             }
         },
 		onEachFeature: function (feature, layer) {
             var popup_content = "<h2 class='custom-popup'>" + feature.properties.Location + "</h2>" 
             + "<b>" + "Dates: " + "</b>" + feature.properties.StartDate + " to " + feature.properties.EndDate + "<p>"
-            + "<b>" + "Shoreline Length (km): " + "</b>" + feature.properties.LengthShoreline + "<p>"
+            + "<b>" + "Shoreline Length (km): " + "</b>" + feature.properties.ShorelineL + "<p>"
             + "<table>"
             + "<tr><th>Material</th><th>Weight (lbs)</th></tr>"
             + "<tr><td>#1 Foam Floats</td><td style='text-align:center'>" + feature.properties.Material1 + "</td></tr>"
@@ -284,7 +299,7 @@ if (size.x < 640) {
     var div = L.DomUtil.create("div", "legend");
     div.innerHTML += "<h4>Legend</h4>";
     div.innerHTML += '<i style="background: red"></i><span>OLF Area</span><br>';
-    div.innerHTML += '<i style="background: white"></i><span>Coastline Covered</span><br>';
+    //div.innerHTML += '<i style="background: white"></i><span>Coastline Covered</span><br>';
     div.innerHTML += '<i class="icon" style="background-image: url(images/warning.png);background-repeat: no-repeat;"></i><span>POIs</span><br>';
     div.innerHTML += '<i class="icon" style="background-image: url(images/legend_start.png);background-repeat: no-repeat;"></i><span>Team Number (Start)</span><br>';
     div.innerHTML += '<i class="icon" style="background-image: url(images/legend_end.png);background-repeat: no-repeat;"></i><span>Team Number (End)</span><br>';
