@@ -234,7 +234,6 @@ var descriptions = {
 		   "tags": "aquatic"
 		 },
 	 	
-	 	
 	 		
 		 {
 		   "id": "1",
@@ -940,6 +939,39 @@ var descriptions = {
 	],
 	
 	"ice": [
+		{
+		   "id": "37",
+		   "imageTitle": "TBD",
+		   "description": "Coming soon...",
+		   "location": "Antarctica",
+		   "dateTaken": "Jan 2023",
+		   "tags": "texture"
+		 },
+		 {
+		   "id": "38",
+		   "imageTitle": "TBD",
+		   "description": "Coming soon...",
+		   "location": "Antarctica",
+		   "dateTaken": "Jan 2023",
+		   "tags": "texture glacier"
+		 },
+		 {
+		   "id": "39",
+		   "imageTitle": "TBD",
+		   "description": "Coming soon...",
+		   "location": "Antarctica",
+		   "dateTaken": "Jan 2023",
+		   "tags": "glacier"
+		 },
+		 {
+		   "id": "40",
+		   "imageTitle": "TBD",
+		   "description": "Coming soon...",
+		   "location": "Antarctica",
+		   "dateTaken": "Mar 2021",
+		   "tags": "texture"
+		 },
+		
 		 {
 		   "id": "1",
 		   "imageTitle": "River's Edge",
@@ -1258,6 +1290,202 @@ var descriptions = {
 	],
 	
 	"bc": [
+		{
+		   "id": "85",
+		   "imageTitle": "TBD",
+		   "description": "Story coming soon!",
+		   "location": "Vancouver Island, British Columbia, Canada",
+		   "dateTaken": "May 2022",
+		   "tags": "forest"
+		 },
+		 {
+		   "id": "86",
+		   "imageTitle": "TBD",
+		   "description": "Story coming soon!",
+		   "location": "Vancouver Island, British Columbia, Canada",
+		   "dateTaken": "May 2022",
+		   "tags": "forest"
+		 },
+		 {
+		   "id": "87",
+		   "imageTitle": "TBD",
+		   "description": "Story coming soon!",
+		   "location": "Vancouver Island, British Columbia, Canada",
+		   "dateTaken": "May 2022",
+		   "tags": "forest"
+		 },
+		 {
+		   "id": "88",
+		   "imageTitle": "TBD",
+		   "description": "Story coming soon!",
+		   "location": "Vancouver Island, British Columbia, Canada",
+		   "dateTaken": "May 2022",
+		   "tags": "forest"
+		 },
+		 {
+		   "id": "89",
+		   "imageTitle": "TBD",
+		   "description": "Story coming soon!",
+		   "location": "Gulf Islands, British Columbia, Canada",
+		   "dateTaken": "May 2022",
+		   "tags": "ocean"
+		 },
+		 {
+		   "id": "90",
+		   "imageTitle": "TBD",
+		   "description": "Story coming soon!",
+		   "location": "Gulf Islands, British Columbia, Canada",
+		   "dateTaken": "May 2022",
+		   "tags": "ocean"
+		 },
+		 {
+		   "id": "91",
+		   "imageTitle": "TBD",
+		   "description": "Story coming soon!",
+		   "location": "British Columbia, Canada",
+		   "dateTaken": "Jun 2021",
+		   "tags": "forest waterfall"
+		 },
+		 {
+		   "id": "92",
+		   "imageTitle": "TBD",
+		   "description": "Story coming soon!",
+		   "location": "Vancouver Island, British Columbia, Canada",
+		   "dateTaken": "Jan 2022",
+		   "tags": "forest waterfall"
+		 },
+		 {
+		   "id": "93",
+		   "imageTitle": "TBD",
+		   "description": "Story coming soon!",
+		   "location": "Vancouver Island, British Columbia, Canada",
+		   "dateTaken": "Jan 2022",
+		   "tags": "forest waterfall"
+		 },
+		 {
+		   "id": "94",
+		   "imageTitle": "TBD",
+		   "description": "Story coming soon!",
+		   "location": "Vancouver Island, British Columbia, Canada",
+		   "dateTaken": "Feb 2022",
+		   "tags": "forest"
+		 },
+		 {
+		   "id": "95",
+		   "imageTitle": "TBD",
+		   "description": "Story coming soon!",
+		   "location": "Vancouver Island, British Columbia, Canada",
+		   "dateTaken": "Feb 2022",
+		   "tags": "forest"
+		 },
+		 {
+		   "id": "96",
+		   "imageTitle": "TBD",
+		   "description": "Story coming soon!",
+		   "location": "Vancouver Island, British Columbia, Canada",
+		   "dateTaken": "Feb 2022",
+		   "tags": "forest"
+		 },
+		 {
+		   "id": "97",
+		   "imageTitle": "TBD",
+		   "description": "Story coming soon!",
+		   "location": "Vancouver Island, British Columbia, Canada",
+		   "dateTaken": "Feb 2022",
+		   "tags": "forest"
+		 },
+		 {
+		   "id": "98",
+		   "imageTitle": "TBD",
+		   "description": "Story coming soon!",
+		   "location": "North Vancouver, British Columbia, Canada",
+		   "dateTaken": "Feb 2022",
+		   "tags": "mountain forest"
+		 },
+		 {
+		   "id": "99",
+		   "imageTitle": "TBD",
+		   "description": "Story coming soon!",
+		   "location": "North Vancouver, British Columbia, Canada",
+		   "dateTaken": "Feb 2022",
+		   "tags": "mountain forest"
+		 },
+		 {
+		   "id": "100",
+		   "imageTitle": "TBD",
+		   "description": "Story coming soon!",
+		   "location": "West Vancouver, British Columbia, Canada",
+		   "dateTaken": "Dec 2020",
+		   "tags": "ocean"
+		 },
+		 {
+		   "id": "101",
+		   "imageTitle": "TBD",
+		   "description": "Story coming soon!",
+		   "location": "Stave Lake, British Columbia, Canada",
+		   "dateTaken": "Jun 2022",
+		   "tags": "ocean forest"
+		 },
+		 {
+		   "id": "102",
+		   "imageTitle": "TBD",
+		   "description": "Story coming soon!",
+		   "location": "North Vancouver, British Columbia, Canada",
+		   "dateTaken": "Jan 2021",
+		   "tags": "mountain forest"
+		 },
+		 {
+		   "id": "103",
+		   "imageTitle": "TBD",
+		   "description": "Story coming soon!",
+		   "location": "North Vancouver, British Columbia, Canada",
+		   "dateTaken": "Jan 2021",
+		   "tags": "mountain forest"
+		 },
+		 {
+		   "id": "104",
+		   "imageTitle": "TBD",
+		   "description": "Story coming soon!",
+		   "location": "North Vancouver, British Columbia, Canada",
+		   "dateTaken": "Sep 2021",
+		   "tags": "forest"
+		 },
+		 {
+		   "id": "105",
+		   "imageTitle": "TBD",
+		   "description": "Story coming soon!",
+		   "location": "North Vancouver, British Columbia, Canada",
+		   "dateTaken": "Sep 2021",
+		   "tags": "ocean"
+		 },
+		 {
+		   "id": "106",
+		   "imageTitle": "TBD",
+		   "description": "Story coming soon!",
+		   "location": "British Columbia, Canada",
+		   "dateTaken": "Apr 2021",
+		   "tags": "mountain"
+		 },
+		 {
+		   "id": "107",
+		   "imageTitle": "TBD",
+		   "description": "Story coming soon!",
+		   "location": "British Columbia, Canada",
+		   "dateTaken": "Jun 2023",
+		   "tags": "forest"
+		 },
+		 {
+		   "id": "108",
+		   "imageTitle": "TBD",
+		   "description": "Story coming soon!",
+		   "location": "British Columbia, Canada",
+		   "dateTaken": "Sep 2021",
+		   "tags": "mountain"
+		 },
+		 
+		 
+		 
+		 
 		{
 		   "id": "57",
 		   "imageTitle": "Forested Cascades",
@@ -1589,6 +1817,120 @@ var descriptions = {
 	],
 	
 	"landscape": [
+		{
+		   "id": "56",
+		   "imageTitle": "TBD",
+		   "description": "Coming soon...",
+		   "location": "Antarctica",
+		   "dateTaken": "Jan 2023",
+		   "tags": "antarctica"
+		 },
+		 {
+		   "id": "57",
+		   "imageTitle": "TBD",
+		   "description": "Coming soon...",
+		   "location": "Antarctica",
+		   "dateTaken": "Jan 2023",
+		   "tags": "antarctica"
+		 },
+		 {
+		   "id": "58",
+		   "imageTitle": "TBD",
+		   "description": "Coming soon...",
+		   "location": "Somerset Island, Nunavut",
+		   "dateTaken": "Aug 2022",
+		   "tags": "arctic"
+		 },
+		 {
+		   "id": "59",
+		   "imageTitle": "TBD",
+		   "description": "Coming soon...",
+		   "location": "Palm Springs, California",
+		   "dateTaken": "Nov 2021",
+		   "tags": "canada"
+		 },
+		 {
+		   "id": "60",
+		   "imageTitle": "TBD",
+		   "description": "Coming soon...",
+		   "location": "Palm Springs, California",
+		   "dateTaken": "Nov 2021",
+		   "tags": "canada"
+		 },
+		 {
+		   "id": "61",
+		   "imageTitle": "TBD",
+		   "description": "Coming soon...",
+		   "location": "Palm Springs, California",
+		   "dateTaken": "Nov 2021",
+		   "tags": "canada"
+		 },
+		 {
+		   "id": "62",
+		   "imageTitle": "TBD",
+		   "description": "Coming soon...",
+		   "location": "Palm Springs, California",
+		   "dateTaken": "Nov 2021",
+		   "tags": "canada"
+		 },
+		 {
+		   "id": "63",
+		   "imageTitle": "TBD",
+		   "description": "Coming soon...",
+		   "location": "California",
+		   "dateTaken": "Nov 2021",
+		   "tags": "canada"
+		 },
+		 {
+		   "id": "64",
+		   "imageTitle": "TBD",
+		   "description": "Coming soon...",
+		   "location": "Palm Springs, California",
+		   "dateTaken": "Nov 2021",
+		   "tags": "canada"
+		 },
+		 {
+		   "id": "65",
+		   "imageTitle": "TBD",
+		   "description": "Coming soon...",
+		   "location": "Lemaire Channel, Antarctica",
+		   "dateTaken": "Jan 2023",
+		   "tags": "antarctica"
+		 },
+		 {
+		   "id": "66",
+		   "imageTitle": "TBD",
+		   "description": "Coming soon...",
+		   "location": "Lemaire Channel, Antarctica",
+		   "dateTaken": "Jan 2023",
+		   "tags": "antarctica"
+		 },
+		 {
+		   "id": "67",
+		   "imageTitle": "TBD",
+		   "description": "Coming soon...",
+		   "location": "Grytviken, South Georgia",
+		   "dateTaken": "Jan 2023",
+		   "tags": "antarctica"
+		 },
+		 {
+		   "id": "68",
+		   "imageTitle": "TBD",
+		   "description": "Coming soon...",
+		   "location": "Antarctica",
+		   "dateTaken": "Jan 2023",
+		   "tags": "antarctica"
+		 },
+		{
+		   "id": "69",
+		   "imageTitle": "TBD",
+		   "description": "Coming soon...",
+		   "location": "Antarctica",
+		   "dateTaken": "Jan 2023",
+		   "tags": "antarctica"
+		 },
+		
+		
 		 {
 		   "id": "23",
 		   "imageTitle": "A Path Less Travelled",
