@@ -1,6 +1,241 @@
 var descriptions = {
 
- 	"wildlife": [	
+ 	"wildlife": [
+	 	{
+		   "id": "63",
+		   "imageTitle": "Significant Otters",
+		   "description": "A pair of river otters share a brief moment of calm amongst an evening of tussling and play by the shore.",
+		   "location": "Gulf Islands, British Columbia",
+		   "dateTaken": "February 2021",
+		   "tags": "aquatic"
+		 },
+		 {
+		   "id": "64",
+		   "imageTitle": "Death Stare",
+		   "description": "A penguin gives the photographer an intense stare.",
+		   "location": "Fortuna Bay, South Georgia",
+		   "dateTaken": "December 2022",
+		   "tags": "aquatic"
+		 },
+		 {
+		   "id": "65",
+		   "imageTitle": "Where's The Waldo-Penguin",
+		   "description": "Try to find the penguin named Waldo. He has no red and white markings and looks exactly like all of the other penguins.",
+		   "location": "Gold Harbour, South Georgia",
+		   "dateTaken": "January 2023",
+		   "tags": "aquatic"
+		 },
+		 {
+		   "id": "66",
+		   "imageTitle": "Domestic Dispute",
+		   "description": "This is actually a cheesy love song even though it looks like they are yelling at each other.",
+		   "location": "Brown Bluff, Antarctica",
+		   "dateTaken": "January 2023",
+		   "tags": "aquatic"
+		 },
+		 {
+		   "id": "67",
+		   "imageTitle": "Cozy",
+		   "description": "A Weddell seal takes a cozy nap.",
+		   "location": "Portal Point, Antarctica",
+		   "dateTaken": "January 2023",
+		   "tags": "aquatic"
+		 },
+		 {
+		   "id": "68",
+		   "imageTitle": "Emerging",
+		   "description": "A blue-eyed shag emerges from a deep dive.",
+		   "location": "Fish Islands, Antarctica",
+		   "dateTaken": "January 2023",
+		   "tags": "aquatic"
+		 },
+		 {
+		   "id": "69",
+		   "imageTitle": "Beluga Beach",
+		   "description": "A group of belugas scratch their bellies in the Cunningham River.",
+		   "location": "Somerset Island, Nunavut",
+		   "dateTaken": "July 2022",
+		   "tags": "aquatic"
+		 },
+		 {
+		   "id": "70",
+		   "imageTitle": "Flying Solo",
+		   "description": "A stinky minke whale swims by.",
+		   "location": "Planeau Island, Antarctic Peninsula",
+		   "dateTaken": "Feb 2023",
+		   "tags": "aquatic"
+		 },
+		 {
+		   "id": "71",
+		   "imageTitle": "Flying Solo 2",
+		   "description": "A stinky minke whale swims by again.",
+		   "location": "Planeau Island, Antarctic Peninsula",
+		   "dateTaken": "Feb 2023",
+		   "tags": "aquatic"
+		 },
+		 {
+		   "id": "72",
+		   "imageTitle": "Flying Solo 3",
+		   "description": "A stinky minke whale swims by again and does a backwards somersault.",
+		   "location": "Planeau Island, Antarctic Peninsula",
+		   "dateTaken": "Feb 2023",
+		   "tags": "aquatic"
+		 },
+		 {
+		   "id": "73",
+		   "imageTitle": "PB & Jelly",
+		   "description": "Stumbled across some funky looking jellyfish having a rave at the aquarium.",
+		   "location": "Vancouver, British Columbia",
+		   "dateTaken": "Mar 2022",
+		   "tags": "aquatic"
+		 },
+		 {
+		   "id": "74",
+		   "imageTitle": "I Am Slow",
+		   "description": "A turtle looks regally out across the pond.",
+		   "location": "North Vancouver, British Columbia",
+		   "dateTaken": "Jun 2021",
+		   "tags": "aquatic"
+		 },
+	 	 {
+		   "id": "75",
+		   "imageTitle": "Because You're Worth It",
+		   "description": "A beluga smiles and models for the camera while cruising by on the river.",
+		   "location": "Somerset Island, Nunavut",
+		   "dateTaken": "Jul 2022",
+		   "tags": "aquatic"
+		 },
+	 	 {
+		   "id": "76",
+		   "imageTitle": "Whale of a Tail",
+		   "description": "Notice the cool notches in the huge beluga tail!",
+		   "location": "Somerset Island, Nunavut",
+		   "dateTaken": "Jul 2022",
+		   "tags": "aquatic"
+		 },
+		 {
+		   "id": "77",
+		   "imageTitle": "Hangin' with Mom",
+		   "description": "Two female orcas swim by. Insert cool fact about orcas here.",
+		   "location": "Johnstone Strait, British Columbia",
+		   "dateTaken": "Jun 2021",
+		   "tags": "aquatic"
+		 },
+		 {
+		   "id": "78",
+		   "imageTitle": "Silent Judgment",
+		   "description": "A raven silently judges Brendan as he takes a picture.",
+		   "location": "Mount Harvey, British Columbia",
+		   "dateTaken": "Dec 2020",
+		   "tags": "air"
+		 },
+		 {
+		   "id": "79",
+		   "imageTitle": "Tripod",
+		   "description": "This arctic fox is actually missing a hind leg. Very cool.",
+		   "location": "Somerset Island, Nunavut",
+		   "dateTaken": "Aug 2022",
+		   "tags": "tundra"
+		 },
+		 {
+		   "id": "80",
+		   "imageTitle": "Ice Cow",
+		   "description": "This is a muskox that kinda looks like a shaggy mini cow and lives near the ice.",
+		   "location": "Somerset Island, Nunavut",
+		   "dateTaken": "Aug 2022",
+		   "tags": "tundra"
+		 },
+		 {
+		   "id": "81",
+		   "imageTitle": "Polar Pig",
+		   "description": "This is a muskox that kinda looks like a shaggy polar pig and lives near the ice.",
+		   "location": "Somerset Island, Nunavut",
+		   "dateTaken": "Aug 2022",
+		   "tags": "tundra"
+		 },
+		 {
+		   "id": "82",
+		   "imageTitle": "Greenland Goat",
+		   "description": "This is a muskox that kinda looks like a shaggy Greenland goat and lives near the ice.",
+		   "location": "Somerset Island, Nunavut",
+		   "dateTaken": "Aug 2022",
+		   "tags": "tundra"
+		 },
+		 {
+		   "id": "83",
+		   "imageTitle": "Sea the Otters",
+		   "description": "This is a pair of adorable sea otters, a mom and a somewhat alarmed pup.",
+		   "location": "Vancouver Island, British Columbia",
+		   "dateTaken": "Jun 2021",
+		   "tags": "aquatic"
+		 },
+		 {
+		   "id": "84",
+		   "imageTitle": "I Can See Your Soul",
+		   "description": "This eagle watched us very closely as we paddled through a narrow channel.",
+		   "location": "Vancouver Island, British Columbia",
+		   "dateTaken": "Jun 2021",
+		   "tags": "air"
+		 },
+		 {
+		   "id": "85",
+		   "imageTitle": "Quick Peek",
+		   "description": "A raccoon pops its head over a rock near an intertidal area.",
+		   "location": "Quadra Island, British Columbia",
+		   "dateTaken": "Sept 2021",
+		   "tags": "forest"
+		 },
+		 {
+		   "id": "86",
+		   "imageTitle": "Beach Party",
+		   "description": "A large population of King penguins and their teenage chicks live (let's be real, party) on a beach.",
+		   "location": "Gold Harbour, South Georgia",
+		   "dateTaken": "Jan 2023",
+		   "tags": "aquatic"
+		 },
+		 {
+		   "id": "87",
+		   "imageTitle": "Giants Among Us",
+		   "description": "Many King penguins live on this beach alongside some gigantic elephant seals.",
+		   "location": "Gold Harbour, South Georgia",
+		   "dateTaken": "Jan 2023",
+		   "tags": "aquatic"
+		 },
+		 {
+		   "id": "88",
+		   "imageTitle": "Colour Blends",
+		   "description": "Beluga whales leisurely travel down the river beside a stunning landscape full of different colours.",
+		   "location": "Somerset Island, Nunavut",
+		   "dateTaken": "Aug 2022",
+		   "tags": "aquatic"
+		 },
+		 {
+		   "id": "89",
+		   "imageTitle": "Frolicking",
+		   "description": "A bunch of belugas, both females and their young, frolick in the river.",
+		   "location": "Somerset Island, Nunavut",
+		   "dateTaken": "Aug 2022",
+		   "tags": "aquatic"
+		 },
+		 {
+		   "id": "90",
+		   "imageTitle": "Fitting In",
+		   "description": "A baby beluga swims close to its mother while others swim nearby.",
+		   "location": "Somerset Island, Nunavut",
+		   "dateTaken": "Aug 2022",
+		   "tags": "aquatic"
+		 },
+		 {
+		   "id": "91",
+		   "imageTitle": "Whirlpool",
+		   "description": "A pair of belugas swim together in the chilly Arctic waters.",
+		   "location": "Somerset Island, Nunavut",
+		   "dateTaken": "Aug 2022",
+		   "tags": "aquatic"
+		 },
+	 	
+	 	
+	 		
 		 {
 		   "id": "1",
 		   "imageTitle": "Looking Back",
