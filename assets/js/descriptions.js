@@ -647,6 +647,114 @@ var descriptions = {
 	],
  	
  	"adventure": [
+	 	{
+		   "id": "51",
+		   "imageTitle": "TBD",
+		   "description": "Coming soon...",
+		   "location": "British Columbia, Canada",
+		   "dateTaken": "Sep 2022",
+		   "tags": "land rock"
+		 },
+	 	{
+		   "id": "52",
+		   "imageTitle": "TBD",
+		   "description": "Coming soon...",
+		   "location": "Antarctica",
+		   "dateTaken": "Jan 2023",
+		   "tags": "water snow"
+		 },
+		 {
+		   "id": "53",
+		   "imageTitle": "TBD",
+		   "description": "Coming soon...",
+		   "location": "Antarctica",
+		   "dateTaken": "Jan 2023",
+		   "tags": "land snow"
+		 },
+		 {
+		   "id": "54",
+		   "imageTitle": "TBD",
+		   "description": "Coming soon...",
+		   "location": "Barry's Bay, Ontario, Canada",
+		   "dateTaken": "Feb 2021",
+		   "tags": "land snow"
+		 },
+		 {
+		   "id": "55",
+		   "imageTitle": "TBD",
+		   "description": "Coming soon...",
+		   "location": "Barry's Bay, Ontario, Canada",
+		   "dateTaken": "Feb 2021",
+		   "tags": "land snow"
+		 },
+		 {
+		   "id": "56",
+		   "imageTitle": "TBD",
+		   "description": "Coming soon...",
+		   "location": "British Columbia, Canada",
+		   "dateTaken": "Apr 2021",
+		   "tags": "land water"
+		 },
+		 {
+		   "id": "57",
+		   "imageTitle": "TBD",
+		   "description": "Coming soon...",
+		   "location": "British Columbia, Canada",
+		   "dateTaken": "Mar 2022",
+		   "tags": "land"
+		 },
+		 {
+		   "id": "58",
+		   "imageTitle": "TBD",
+		   "description": "Coming soon...",
+		   "location": "British Columbia, Canada",
+		   "dateTaken": "Mar 2021",
+		   "tags": "water"
+		 },
+		 {
+		   "id": "59",
+		   "imageTitle": "TBD",
+		   "description": "Coming soon...",
+		   "location": "British Columbia, Canada",
+		   "dateTaken": "Oct 2022",
+		   "tags": "land rock"
+		 },
+		 {
+		   "id": "60",
+		   "imageTitle": "TBD",
+		   "description": "Coming soon...",
+		   "location": "British Columbia, Canada",
+		   "dateTaken": "Oct 2022",
+		   "tags": "land rock"
+		 },
+		 {
+		   "id": "61",
+		   "imageTitle": "TBD",
+		   "description": "Coming soon...",
+		   "location": "California, USA",
+		   "dateTaken": "Nov 2021",
+		   "tags": "land"
+		 },
+		 {
+		   "id": "62",
+		   "imageTitle": "TBD",
+		   "description": "Coming soon...",
+		   "location": "California, USA",
+		   "dateTaken": "Nov 2021",
+		   "tags": "land"
+		 },
+		 {
+		   "id": "63",
+		   "imageTitle": "TBD",
+		   "description": "Coming soon...",
+		   "location": "California, USA",
+		   "dateTaken": "Nov 2021",
+		   "tags": "land rock"
+		 },
+		 
+		 
+		 
+	 	
 		 {
 		   "id": "1",
 		   "imageTitle": "An Inland Sea",
@@ -1239,6 +1347,107 @@ var descriptions = {
 	],
 	
 	"aerials": [
+		
+		{
+		   "id": "7",
+		   "imageTitle": "TBD",
+		   "description": "Story coming soon!",
+		   "location": "Barry's Bay, Ontario, Canada",
+		   "dateTaken": "Mar 2022",
+		   "tags": "landscape"
+		 },
+		 {
+		   "id": "8",
+		   "imageTitle": "TBD",
+		   "description": "Story coming soon!",
+		   "location": "British Columbia, Canada",
+		   "dateTaken": "Jun 2021",
+		   "tags": "landscape"
+		 },
+		 {
+		   "id": "9",
+		   "imageTitle": "TBD",
+		   "description": "Story coming soon!",
+		   "location": "Gulf Islands, British Columbia, Canada",
+		   "dateTaken": "Feb 2021",
+		   "tags": "landscape"
+		 },
+		 {
+		   "id": "10",
+		   "imageTitle": "TBD",
+		   "description": "Story coming soon!",
+		   "location": "Gulf Islands, British Columbia, Canada",
+		   "dateTaken": "Feb 2021",
+		   "tags": "landscape"
+		 },
+		 {
+		   "id": "11",
+		   "imageTitle": "TBD",
+		   "description": "Story coming soon!",
+		   "location": "British Columbia, Canada",
+		   "dateTaken": "Aug 2021",
+		   "tags": "landscape"
+		 },
+		 {
+		   "id": "12",
+		   "imageTitle": "TBD",
+		   "description": "Story coming soon!",
+		   "location": "British Columbia, Canada",
+		   "dateTaken": "Aug 2021",
+		   "tags": "landscape"
+		 },
+		 {
+		   "id": "13",
+		   "imageTitle": "TBD",
+		   "description": "Story coming soon!",
+		   "location": "Barry's Bay, Ontario, Canada",
+		   "dateTaken": "Mar 2022",
+		   "tags": "landscape"
+		 },
+		 {
+		   "id": "14",
+		   "imageTitle": "Goat Ridge",
+		   "description": "Story coming soon!",
+		   "location": "British Columbia, Canada",
+		   "dateTaken": "Aug 2021",
+		   "tags": "landscape"
+		 },
+		 {
+		   "id": "15",
+		   "imageTitle": "TBD",
+		   "description": "Story coming soon!",
+		   "location": "Sometset Island, Nunavut, Canada",
+		   "dateTaken": "Jul 2022",
+		   "tags": "landscape"
+		 },
+		 {
+		   "id": "16",
+		   "imageTitle": "TBD",
+		   "description": "Story coming soon!",
+		   "location": "Sometset Island, Nunavut, Canada",
+		   "dateTaken": "Jul 2022",
+		   "tags": "landscape"
+		 },
+		 {
+		   "id": "17",
+		   "imageTitle": "TBD",
+		   "description": "Story coming soon!",
+		   "location": "Sometset Island, Nunavut, Canada",
+		   "dateTaken": "Jul 2022",
+		   "tags": "landscape"
+		 },
+		 {
+		   "id": "18",
+		   "imageTitle": "TBD",
+		   "description": "Story coming soon!",
+		   "location": "British Columbia, Canada",
+		   "dateTaken": "Sep 2021",
+		   "tags": "landscape"
+		 },
+		 
+		 
+		
+		
 		{
 		   "id": "1",
 		   "imageTitle": "The Deep",
