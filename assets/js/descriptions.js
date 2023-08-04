@@ -59,7 +59,7 @@ var descriptions = {
 		 },
 		 {
 		   "id": "70",
-		   "imageTitle": "Flying Solo",
+		   "imageTitle": "Flying Solo", 
 		   "description": "A stinky minke whale swims by.",
 		   "location": "Planeau Island, Antarctic Peninsula",
 		   "dateTaken": "Feb 2023",
