@@ -124,11 +124,12 @@ console.log('%c This site uses the Titan web template. Proudly Crafted with ZiOn
 
         
         // Rapid - TEMP 
-        if (worksgrid.hasClass('paddlingmag')) {	
-	        $.each(descriptions.paddlingmag, function(i, f) {
+        if (worksgrid.hasClass('paddlingmag')) {	   	
+        	$.each(descriptions.paddlingmag, function(i, f) {
 	        	var listItem = "<li class='work-item work-item-gallery-nodesc " + f.tags + "'><a href=\"assets/images/bk/paddlingmag/" + f.id + ".JPG\" title=\"\"><div class=\"work-image\" title=\"" + f.location + "\"><img src=\"assets/images/bk/paddlingmag/thumbnails/" + f.id + ".JPG\" alt=\"" + f.location + "\"/></div><div class=\"work-caption font-alt\"><h3 class=\"work-descr\">" + f.location + "</h3></div></a></li>";
                 $(listItem).appendTo("#works-grid");
         	});
+        	
 /*
 	        $.each(descriptions.rapid, function(i, f) {
 	        	var listItem = "<li class='work-item work-item-gallery-nodesc" + f.tags + "'><a href=\"assets/images/bk/paddlingmag/" + f.id + ".JPG\"><div class=\"work-image\" title=\"" + f.location + "\"><img src=\"assets/images/bk/paddlingmag/thumbnails/" + f.id + ".JPG\" alt=\"" + f.location + "\"/></div><div class=\"work-caption font-alt\"><h3 class=\"work-descr\">" + f.location + "</h3></div></a></li>";
@@ -378,7 +379,7 @@ console.log('%c This site uses the Titan web template. Proudly Crafted with ZiOn
             },
             image: {
 	            markup: '<div class="mfp-figure">'+
-				            '<div class="mfp-close"></div>'+
+// 				            '<div class="mfp-close"></div>'+
 				            '<div class="mfp-img"></div>'+ // Floated left
 				            '<div class="mfp-bottom-bar">'+
 				              '<div class="mfp-counter"></div>'+

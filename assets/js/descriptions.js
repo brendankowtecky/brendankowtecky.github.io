@@ -2384,11 +2384,128 @@ var descriptions = {
 		 
 ], 
 "paddlingmag": [
+	{
+		   "id": "r108",
+		   "location": "Antarctic Peninsula",
+		   "tags": "antarctica"
+		 },
 		 {
-		   "id": "r101",
-		   "location": "Pitt Lake, British Columbia",
+		   "id": "r121",
+		   "location": "Cape Flattery, Washington",
+		   "tags": "unitedstates"
+		 },
+		 {
+		   "id": "r135",
+		   "location": "Cunningham Inlet, Nunavut",
+		   "tags": "arctic"
+		 },
+		 {
+		   "id": "r126",
+		   "location": "Desolation Sound, British Columbia",
 		   "tags": "britishcolumbia"
 		 },
+		 {
+		   "id": "r105",
+		   "location": "Antarctic Peninsula",
+		   "tags": "antarctica"
+		 },
+		 {
+		   "id": "r127",
+		   "location": "Desolation Sound, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r107",
+		   "location": "Antarctic Peninsula",
+		   "tags": "antarctica"
+		 },
+		 {
+		   "id": "r128",
+		   "location": "Desolation Sound, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r118",
+		   "location": "Antarctic Peninsula",
+		   "tags": "antarctica"
+		 },
+		 {
+		   "id": "r123",
+		   "location": "Lasqueti Island, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r132",
+		   "location": "Nuchatlitz, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r130",
+		   "location": "Desolation Sound, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r137",
+		   "location": "Northwest Passage, Nunavut",
+		   "tags": "arctic"
+		 },
+		 {
+		   "id": "r131",
+		   "location": "Desolation Sound, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r114",
+		   "location": "Antarctic Peninsula",
+		   "tags": "antarctica"
+		 },
+		 {
+		   "id": "r120",
+		   "location": "Cape Flattery, Washington",
+		   "tags": "unitedstates"
+		 },
+		 {
+		   "id": "r119",
+		   "location": "Antarctic Peninsula",
+		   "tags": "antarctica"
+		 },
+		 {
+		   "id": "r129",
+		   "location": "Desolation Sound, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r111",
+		   "location": "Antarctic Peninsula",
+		   "tags": "antarctica"
+		 },
+		 {
+		   "id": "r125",
+		   "location": "Indian Arm, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r124",
+		   "location": "Lasqueti Island, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r136",
+		   "location": "Northwest Passage, Nunavut",
+		   "tags": "arctic"
+		 },
+		 {
+		   "id": "r133",
+		   "location": "Nuchatlitz, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r109",
+		   "location": "Antarctic Peninsula",
+		   "tags": "antarctica"
+		 },
+		 
+		 
 		 {
 		   "id": "r102",
 		   "location": "Pitt Lake, British Columbia",
@@ -2427,6 +2544,11 @@ var descriptions = {
 		 {
 		   "id": "r5",
 		   "location": "Swanson Island, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r101",
+		   "location": "Pitt Lake, British Columbia",
 		   "tags": "britishcolumbia"
 		 },
 		 {
@@ -2818,6 +2940,53 @@ var descriptions = {
 		   "id": "r70",
 		   "location": "Baffin Island, Nunavut",
 		   "tags": "arctic"
+		 },
+		 
+		 
+		 {
+		   "id": "r110",
+		   "location": "Antarctic Peninsula",
+		   "tags": "antarctica"
+		 },
+		 {
+		   "id": "r134",
+		   "location": "Cunningham Inlet, Nunavut",
+		   "tags": "arctic"
+		 },
+		 {
+		   "id": "r115",
+		   "location": "Antarctic Peninsula",
+		   "tags": "antarctica"
+		 },
+		 {
+		   "id": "r113",
+		   "location": "Antarctic Peninsula",
+		   "tags": "antarctica"
+		 },
+		 {
+		   "id": "r122",
+		   "location": "Antarctic Peninsula",
+		   "tags": "antarctica"
+		 },
+		 {
+		   "id": "r112",
+		   "location": "Antarctic Peninsula",
+		   "tags": "antarctica"
+		 },
+		 {
+		   "id": "r116",
+		   "location": "Antarctic Peninsula",
+		   "tags": "antarctica"
+		 },
+		 {
+		   "id": "r117",
+		   "location": "Antarctic Peninsula",
+		   "tags": "antarctica"
+		 },
+		 {
+		   "id": "r106",
+		   "location": "Antarctic Peninsula",
+		   "tags": "antarctica"
 		 }
 ]
 }

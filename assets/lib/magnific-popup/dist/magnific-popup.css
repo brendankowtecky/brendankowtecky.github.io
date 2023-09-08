@@ -242,11 +242,11 @@ button::-moz-focus-inner {
     box-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
     background: #000; }
 
-/* Main image in popup - changed max width SEPT 18 2020*/
+/* Main image in popup - changed max width SEPT 18 2020, removed this Sept 2023*/
 img.mfp-img {
   float: left;
   width: auto;
-  max-width: 70%;
+/*   max-width: 70%; */
   height: auto;
   display: block;
   line-height: 0;

@@ -1682,6 +1682,10 @@ Google map
   padding: 0 0 10px 10px;
 }
 
+.works-grid-masonry.works-grid .work-item {
+  padding: 5px 5px 5px 5px;
+}
+
 .work-item {
   width: 50%;
   float: left;
