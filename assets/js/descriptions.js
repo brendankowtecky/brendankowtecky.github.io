@@ -2385,6 +2385,96 @@ var descriptions = {
 ], 
 "paddlingmag": [
 	{
+		   "id": "r138",
+		   "location": "Haida Gwaii, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r139",
+		   "location": "Haida Gwaii, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r145",
+		   "location": "Haida Gwaii, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r146",
+		   "location": "Haida Gwaii, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r151",
+		   "location": "Haida Gwaii, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r143",
+		   "location": "Haida Gwaii, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r144",
+		   "location": "Haida Gwaii, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r147",
+		   "location": "Haida Gwaii, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r149",
+		   "location": "Haida Gwaii, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r141",
+		   "location": "Haida Gwaii, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r148",
+		   "location": "Haida Gwaii, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r140",
+		   "location": "Haida Gwaii, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r150",
+		   "location": "Haida Gwaii, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r142",
+		   "location": "Haida Gwaii, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r152",
+		   "location": "Haida Gwaii, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r153",
+		   "location": "Haida Gwaii, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r154",
+		   "location": "Haida Gwaii, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
+		   "id": "r155",
+		   "location": "Haida Gwaii, British Columbia",
+		   "tags": "britishcolumbia"
+		 },
+		 {
 		   "id": "r108",
 		   "location": "Antarctic Peninsula",
 		   "tags": "antarctica"
