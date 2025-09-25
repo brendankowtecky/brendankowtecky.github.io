@@ -130,13 +130,24 @@ console.log('%c This site uses the Titan web template. Proudly Crafted with ZiOn
                 $(listItem).appendTo("#works-grid");
         	});
         	
+        }
+        	
+        // Haida Gwaii - TEMP 
+        if (worksgrid.hasClass('haidagwaii')) {	   	
+        	$.each(descriptions.haidagwaii, function(i, f) {
+	        	var listItem = "<li class='work-item work-item-gallery-nodesc " + f.tags + "'><a href=\"assets/images/bk/haidagwaii/" + f.id + ".JPG\" title=\"\"><div class=\"work-image\" title=\"" + f.location + "\"><img src=\"assets/images/bk/haidagwaii/thumbnails/" + f.id + ".JPG\" alt=\"" + f.location + "\"/></div><div class=\"work-caption font-alt\"><h3 class=\"work-descr\">" + f.location + "</h3></div></a></li>";
+                $(listItem).appendTo("#works-grid");
+        	});
+        	
+        }
+        	
 /*
 	        $.each(descriptions.rapid, function(i, f) {
 	        	var listItem = "<li class='work-item work-item-gallery-nodesc" + f.tags + "'><a href=\"assets/images/bk/paddlingmag/" + f.id + ".JPG\"><div class=\"work-image\" title=\"" + f.location + "\"><img src=\"assets/images/bk/paddlingmag/thumbnails/" + f.id + ".JPG\" alt=\"" + f.location + "\"/></div><div class=\"work-caption font-alt\"><h3 class=\"work-descr\">" + f.location + "</h3></div></a></li>";
                 $(listItem).appendTo("#works-grid");
         	});
 */
-        }
+        
         
         
 
