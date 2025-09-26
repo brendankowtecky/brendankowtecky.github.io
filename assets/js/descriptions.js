@@ -2383,15 +2383,748 @@ var descriptions = {
 		},
 
 	],
+
 	"haidagwaii": [
 		{ 
 			"id": "hg-1", 
 			"location": "Haida Gwaii, British Columbia", 
-			"tags": "britishcolumbia" 
-		}, { "id": "hg-2", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-3", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-4", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-5", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-6", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-7", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-8", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-9", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-10", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-11", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-12", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-13", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-14", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-15", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-16", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-17", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-18", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-19", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-20", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-21", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-22", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-23", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-24", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-25", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-26", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-27", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-28", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-29", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-30", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-31", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-32", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-33", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-34", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-35", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-36", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-37", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-38", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-39", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-40", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-41", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-42", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-43", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-44", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-45", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-46", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-47", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-48", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-49", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-50", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-51", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-52", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-53", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-54", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-55", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-56", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-57", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-58", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-59", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-60", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-61", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-62", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-63", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-64", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-65", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-66", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-67", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-68", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-69", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-70", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-71", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-72", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-73", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-74", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-75", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-76", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-77", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-78", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-79", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-80", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-81", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-82", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-83", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-84", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-85", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-86", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-87", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-88", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-89", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-90", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-91", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-92", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-93", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-94", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-95", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-96", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-97", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-98", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-99", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-100", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-101", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-102", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-103", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-104", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-105", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-106", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-107", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-108", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-109", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-110", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-111", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-112", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-113", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-114", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-115", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-116", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-117", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-118", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-119", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-120", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-121", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-122", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-123", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-124", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-125", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-126", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-127", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-128", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-129", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-130", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-131", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-132", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-133", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-134", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-135", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-136", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-137", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-138", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-139", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-140", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-141", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-142", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-143", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-144", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-145", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-146", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-147", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }, { "id": "hg-148", "location": "Haida Gwaii, British Columbia", "tags": "britishcolumbia" }
-
+			"tags": "graham" 
+		}, 
+		{ 
+			"id": "hg-2", 
+			"location": "Haida Gwaii, British Columbia", 
+			"tags": "graham" 
+		}, 
+		{ 
+			"id": "hg-3", 
+			"location": "Haida Gwaii, British Columbia", 
+			"tags": "graham" 
+		}, 
+		{ 
+			"id": "hg-4", 
+			"location": "Haida Gwaii, British Columbia", 
+			"tags": "graham" 
+		}, 
+		{ 
+			"id": "hg-5", 
+			"location": "Haida Gwaii, British Columbia", 
+			"tags": "graham" 
+		}, 
+		{ 
+			"id": "hg-6", 
+			"location": "Haida Gwaii, British Columbia", 
+			"tags": "graham" 
+		}, 
+		{ 
+			"id": "hg-7", 
+			"location": "Haida Gwaii, British Columbia", 
+			"tags": "graham" 
+		}, 
+		{ 
+			"id": "hg-8", 
+			"location": "Haida Gwaii, British Columbia", 
+			"tags": "graham" 
+		}, 
+		{ 
+			"id": "hg-9", 
+			"location": "Haida Gwaii, British Columbia", 
+			"tags": "graham" 
+		}, 
+		{ 
+			"id": "hg-10", 
+			"location": "Haida Gwaii, British Columbia", 
+			"tags": "graham" 
+		}, 
+		{ 
+			"id": "hg-11", 
+			"location": "Haida Gwaii, British Columbia", 
+			"tags": "graham moresby" 
+		}, { 
+			"id": "hg-12", 
+			"location": "Haida Gwaii, British Columbia", 
+			"tags": "graham moresby" 
+		}, 
+		{ 
+			"id": "hg-13", 
+			"location": "Haida Gwaii, British Columbia", 
+			"tags": "graham moresby" 
+		}, 
+		{ 
+			"id": "hg-14", 
+			"location": "Haida Gwaii, British Columbia", 
+			"tags": "moresby" 
+		}, 
+		{ 
+			"id": "hg-15", 
+			"location": "Haida Gwaii, British Columbia", 
+			"tags": "moresby" 
+		}, 
+		{ 
+			"id": "hg-16", 
+			"location": "Haida Gwaii, British Columbia", 
+			"tags": "moresby" 
+		}, 
+		{ 
+			"id": "hg-17", 
+			"location": "Haida Gwaii, British Columbia", 
+			"tags": "moresby" 
+		}, 
+		{ 
+			"id": "hg-18", 
+			"location": "Haida Gwaii, British Columbia", 
+			"tags": "moresby" 
+		}, 
+		{ 
+			"id": "hg-19", 
+			"location": "Haida Gwaii, British Columbia", 
+			"tags": "moresby"
+		}, 
+		{ 
+			"id": "hg-20", 
+			"location": "Haida Gwaii, British Columbia", 
+			"tags": "moresby" 
+		}, 
+		{ 
+			"id": "hg-21", 
+			"location": "Haida Gwaii, British Columbia", 
+			"tags": "moresby" 
+		}, 
+		{ 
+			"id": "hg-22", 
+			"location": "Haida Gwaii, British Columbia", 
+			"tags": "moresby" 
+		}, 
+		{
+			 "id": "hg-23", 
+			 "location": "Haida Gwaii, British Columbia", 
+			 "tags": "moresby" 
+		}, 
+		{ 
+			"id": "hg-24", 
+			"location": "Haida Gwaii, British Columbia", 
+			"tags": "moresby" 
+		}, 
+		{ 
+			"id": "hg-25", 
+			"location": "Haida Gwaii, British Columbia", 
+			"tags": "moresby" 
+		}, 
+		{ 
+			"id": "hg-26", 
+			"location": "Haida Gwaii, British Columbia", 
+			"tags": "moresby" 
+		}, 
+		{
+			"id": "hg-27",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-28",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-29",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-30",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-31",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-32",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham"
+		  },
+		  {
+			"id": "hg-33",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham"
+		  },
+		  {
+			"id": "hg-34",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham"
+		  },
+		  {
+			"id": "hg-35",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham"
+		  },
+		  {
+			"id": "hg-36",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham"
+		  },
+		  {
+			"id": "hg-37",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham"
+		  },
+		  {
+			"id": "hg-38",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham"
+		  },
+		  {
+			"id": "hg-39",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham"
+		  },
+		  {
+			"id": "hg-40",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham"
+		  },
+		  {
+			"id": "hg-41",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham"
+		  },
+		  {
+			"id": "hg-42",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham"
+		  },
+		  {
+			"id": "hg-43",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham"
+		  },
+		  {
+			"id": "hg-44",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham"
+		  },
+		  {
+			"id": "hg-45",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham"
+		  },
+		  {
+			"id": "hg-46",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham"
+		  },
+		  {
+			"id": "hg-47",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham"
+		  },
+		  {
+			"id": "hg-48",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham"
+		  },
+		  {
+			"id": "hg-49",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham"
+		  },
+		  {
+			"id": "hg-50",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham"
+		  },
+		  {
+			"id": "hg-51",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham"
+		  },
+		  {
+			"id": "hg-52",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham"
+		  },
+		  {
+			"id": "hg-53",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham"
+		  },
+		  {
+			"id": "hg-54",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham"
+		  },
+		  {
+			"id": "hg-55",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham"
+		  },
+		  {
+			"id": "hg-56",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham"
+		  },
+		  {
+			"id": "hg-57",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham"
+		  },
+		  {
+			"id": "hg-58",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham"
+		  },
+		  {
+			"id": "hg-59",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham"
+		  },
+		  {
+			"id": "hg-60",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham"
+		  },
+		  {
+			"id": "hg-61",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham"
+		  },
+		  {
+			"id": "hg-62",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham"
+		  },
+		  {
+			"id": "hg-63",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham"
+		  },
+		  {
+			"id": "hg-64",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham"
+		  },
+		  {
+			"id": "hg-65",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham"
+		  },
+		  {
+			"id": "hg-66",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-67",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-68",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-69",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-70",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham"
+		  },
+		  {
+			"id": "hg-71",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham"
+		  },
+		  {
+			"id": "hg-72",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham moresby"
+		  },
+		  {
+			"id": "hg-73",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-74",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-75",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-76",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-77",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-78",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-79",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-80",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-81",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-82",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-83",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-84",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-85",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-86",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-87",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-88",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-89",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-90",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-91",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-92",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-93",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-94",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-95",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-96",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-97",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-98",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-99",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-100",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-101",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-102",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-103",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-104",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-105",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-106",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-107",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-108",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-109",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-110",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-111",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-112",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-113",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-114",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-115",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-116",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-117",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-118",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-119",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-120",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-121",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-122",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-123",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-124",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-125",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-126",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-127",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-128",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-129",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-130",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-131",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-132",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-133",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-134",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "graham"
+		  },
+		  {
+			"id": "hg-135",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-136",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-137",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-138",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-139",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-140",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-141",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-142",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-143",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-144",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-145",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-146",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-147",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  },
+		  {
+			"id": "hg-148",
+			"location": "Haida Gwaii, British Columbia",
+			"tags": "moresby"
+		  }
 	],
-
 
 	"paddlingmag": [
 		{
